@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 
 ---
 </div>
+
 ## 🧠 Currently Learning
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
