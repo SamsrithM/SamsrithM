@@ -80,6 +80,3 @@ Here are some ideas to get you started:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ---
-
-
-*Made with ❤️ by SamsrithM*
