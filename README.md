@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align = "center" >👋 Hello, I'm SamsrithM!</h1> 
-<h3 align = "center">Welcome to my GitHub profile <br>  B.Tech CSE @ IIITDM Kurnool | Cryptography Enthusiast | AI ML and Backend Developer</h3>
+<h3 align = "center">Welcome to my GitHub profile <br>  B.Tech CSE @ IIITDM Kurnool | FullStack Dev | AI ML and Backend Developer</h3>
 
 ---
 
