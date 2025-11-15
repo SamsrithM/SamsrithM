@@ -26,9 +26,8 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samsrith-mukkera-131aab289/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samsrithmukkera@gmail.com)
-
----
-
+<!--[![Instagram](https://img.shields.io/badge/Instagram-YourUsername-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.linkedin.com/in/samsrith-mukkera-131aab289/)
+-->
 ## 🛠️ Skills & Tools
 
 ### 🧑‍💻 Programming Languages & Scripting
@@ -72,13 +71,12 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SamsrithM&theme=tokyonight)](https://git.io/streak-stats)
 
----
 </div>
 
+<!--
 ## 🧠 Currently Learning
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
----
+-->
