@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 [![SamsrithM's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamsrithM&show_icons=true&theme=radical)](https://github.com/SamsrithM)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamsrithM&layout=compact&theme=radical)](https://github.com/SamsrithM) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamsrithM&layout=compact&theme=radical&langs_count=10&hide_border=true)](https://github.com/SamsrithM)
 ---
 </div>
 
