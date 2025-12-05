@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ![Godot](https://img.shields.io/badge/Godot-3C6EB4?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamsrithM&layout=compact&theme=radical&langs_count=10&hide_border=true)](https://github.com/SamsrithM)
 ---
 </div>
-
+-->
 ## 🔥 Contribution Streak
 
 <div align="center">
