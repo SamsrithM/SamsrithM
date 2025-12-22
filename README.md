@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 -->
 ## 🔥 Contribution Streak
 
-<div align="center">
+<!-- <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SamsrithM&theme=tokyonight)](https://git.io/streak-stats)
 
-</div>
+</div> -->
 
 <!--
 ## 🧠 Currently Learning
